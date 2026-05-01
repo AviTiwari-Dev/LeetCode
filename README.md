@@ -16,5 +16,6 @@
 | [**00181**](00181.sql) | Employees Earning More Than Their Managers | Easy |
 | [**00182**](00182.sql) | Duplicate Emails | Easy |
 | [**00183**](00183.sql) | Customers Who Never Order | Easy |
+| [**00184**](00184.sql) | Department Highest Salary | Medium |
 
 </details>
