@@ -10,5 +10,5 @@
 | :-- | :-- | :-- |
 | [**00175**](00175.sql) | Combine Two Tables | Easy |
 | [**00176**](00176.sql) | Second Highest Salary | Medium |
-
+| [**00177**](00177.sql) | Nth Highest Salary | Medium |
 </details>
