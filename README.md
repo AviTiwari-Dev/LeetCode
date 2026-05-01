@@ -14,5 +14,6 @@
 | [**00178**](00178.sql) | Rank Scores | Medium |
 | [**00180**](00180.sql) | Consecutive Numbers | Medium |
 | [**00181**](00181.sql) | Employees Earning More Than Their Managers | Easy |
+| [**00182**](00182.sql) | Duplicate Emails | Easy |
 
 </details>
