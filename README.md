@@ -13,4 +13,6 @@
 | [**00177**](00177.sql) | Nth Highest Salary | Medium |
 | [**00178**](00178.sql) | Rank Scores | Medium |
 | [**00180**](00180.sql) | Consecutive Numbers | Medium |
+| [**00181**](00181.sql) | Employees Earning More Than Their Managers | Easy |
+
 </details>
