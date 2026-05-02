@@ -18,5 +18,6 @@
 | [**00183**](./src/00183.sql) | Customers Who Never Order | Easy |
 | [**00184**](./src/00184.sql) | Department Highest Salary | Medium |
 | [**00185**](./src/00185.sql) | Department Top Three Salaries | Hard |
+| [**00196**](./src/00196.sql) | Delete Duplicate Emails | Easy |
 
 </details>
