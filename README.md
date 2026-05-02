@@ -26,5 +26,6 @@
 | [**00570**](./src/00570.sql) | Managers with at Least 5 Direct Reports | Medium |
 | [**00577**](./src/00577.sql) | Employee Bonus | Easy |
 | [**00584**](./src/00584.sql) | Find Customer Referee | Easy |
+| [**00585**](./src/00585.sql) | Investments in 2016 | Medium |
 
 </details>
