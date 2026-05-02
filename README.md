@@ -21,5 +21,6 @@
 | [**00196**](./src/00196.sql) | Delete Duplicate Emails | Easy |
 | [**00197**](./src/00197.sql) | Rising Temperature | Easy |
 | [**00262**](./src/00262.sql) | Trips and Users | Hard |
+| [**00511**](./src/00511.sql) | Game Play Analysis I | Easy |
 
 </details>
