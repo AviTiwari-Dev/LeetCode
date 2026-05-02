@@ -20,5 +20,6 @@
 | [**00185**](./src/00185.sql) | Department Top Three Salaries | Hard |
 | [**00196**](./src/00196.sql) | Delete Duplicate Emails | Easy |
 | [**00197**](./src/00197.sql) | Rising Temperature | Easy |
+| [**00262**](./src/00262.sql) | Trips and Users | Hard |
 
 </details>
