@@ -24,5 +24,6 @@
 | [**00511**](./src/00511.sql) | Game Play Analysis I | Easy |
 | [**00550**](./src/00550.sql) | Game Play Analysis IV | Medium |
 | [**00570**](./src/00570.sql) | Managers with at Least 5 Direct Reports | Medium |
+| [**00577**](./src/00577.sql) | Employee Bonus | Easy |
 
 </details>
