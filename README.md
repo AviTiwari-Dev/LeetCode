@@ -22,5 +22,6 @@
 | [**00197**](./src/00197.sql) | Rising Temperature | Easy |
 | [**00262**](./src/00262.sql) | Trips and Users | Hard |
 | [**00511**](./src/00511.sql) | Game Play Analysis I | Easy |
+| [**00550**](./src/00550.sql) | Game Play Analysis IV | Medium |
 
 </details>
