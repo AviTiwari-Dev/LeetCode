@@ -32,5 +32,6 @@
 | [**00596**](./src/00596.sql) | Classes With at Least 5 Students | Easy |
 | [**00601**](./src/00601.sql) | Human Traffic of Stadium | Hard |
 | [**00602**](./src/00602.sql) | Friend Requests II: Who Has the Most Friends | Medium |
+| [**00607**](./src/00607.sql) | Sales Person | Easy |
 
 </details>
