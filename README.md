@@ -41,6 +41,7 @@
 | [**00608**](./src/00608.sql) | Tree Node | Medium |
 | [**00610**](./src/00610.sql) | Triangle Judgement | Easy |
 | [**00619**](./src/00619.sql) | Biggest Single Number | Easy |
+| [**00620**](./src/00620.sql) | Not Boring Movies | Easy |
 
 
 </details>
