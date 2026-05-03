@@ -28,5 +28,6 @@
 | [**00584**](./src/00584.sql) | Find Customer Referee | Easy |
 | [**00585**](./src/00585.sql) | Investments in 2016 | Medium |
 | [**00586**](./src/00586.sql) | Customer Placing the Largest Number of Orders | Easy |
+| [**00595**](./src/00595.sql) | Big Countries | Easy |
 
 </details>
