@@ -39,6 +39,7 @@
 | [**00607**](./src/00607.sql) | Sales Person | Easy |
 <br>
 | [**00608**](./src/00608.sql) | Tree Node | Medium |
+| [**00610**](./src/00610.sql) | Triangle Judgement | Easy |
 
 
 </details>
