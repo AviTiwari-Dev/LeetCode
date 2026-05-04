@@ -40,6 +40,7 @@
 | [**00626**](./src/00626.sql) | Exchange Seats | Medium |
 | [**00627**](./src/00627.sql) | Swap Sex of Employees | Easy |
 | [**01045**](./src/01045.sql) | Customers Who Bought All Products | Medium |
+| [**01050**](./src/01050.sql) | Actors and Directors Who Cooperated At Least Three Times | Easy |
 
 
 </details>
