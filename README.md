@@ -43,6 +43,7 @@
 | [**01050**](./src/01050.sql) | Actors and Directors Who Cooperated At Least Three Times | Easy |
 | [**01068**](./src/01068.sql) | Product Sales Analysis I | Easy |
 | [**01070**](./src/01070.sql) | Product Sales Analysis III | Medium |
+| [**01075**](./src/01075.sql) | Project Employees I | Easy |
 
 
 </details>
