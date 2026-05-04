@@ -39,6 +39,7 @@
 | [**00620**](./src/00620.sql) | Not Boring Movies | Easy |
 | [**00626**](./src/00626.sql) | Exchange Seats | Medium |
 | [**00627**](./src/00627.sql) | Swap Sex of Employees | Easy |
+| [**01045**](./src/01045.sql) | Customers Who Bought All Products | Medium |
 
 
 </details>
