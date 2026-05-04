@@ -45,6 +45,7 @@
 | [**01070**](./src/01070.sql) | Product Sales Analysis III | Medium |
 | [**01075**](./src/01075.sql) | Project Employees I | Easy |
 | [**01084**](./src/01084.sql) | Sales Analysis III | Easy |
+| [**01141**](./src/01141.sql) | User Activity for the Past 30 Days I | Easy |
 
 
 </details>
