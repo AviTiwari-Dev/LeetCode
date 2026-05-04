@@ -38,6 +38,7 @@
 | [**00619**](./src/00619.sql) | Biggest Single Number | Easy |
 | [**00620**](./src/00620.sql) | Not Boring Movies | Easy |
 | [**00626**](./src/00626.sql) | Exchange Seats | Medium |
+| [**00627**](./src/00627.sql) | Swap Sex of Employees | Easy |
 
 
 </details>
