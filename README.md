@@ -48,6 +48,7 @@
 | [**01141**](./src/01141.sql) | User Activity for the Past 30 Days I | Easy |
 | [**01148**](./src/01148.sql) | Article Views I | Easy |
 | [**01158**](./src/01158.sql) | Market Analysis I | Medium |
+| [**01179**](./src/01179.sql) | Reformat Department Table | Easy |
 
 
 </details>
