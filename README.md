@@ -51,6 +51,7 @@
 | [**01179**](./src/01179.sql) | Reformat Department Table | Easy |
 | [**01211**](./src/01211.sql) | Queries Quality and Percentage | Easy |
 | [**01251**](./src/01251.sql) | Average Selling Price | Easy |
+| [**01280**](./src/01280.sql) | Students and Examinations | Easy |
 
 
 </details>
