@@ -49,6 +49,7 @@
 | [**01148**](./src/01148.sql) | Article Views I | Easy |
 | [**01158**](./src/01158.sql) | Market Analysis I | Medium |
 | [**01179**](./src/01179.sql) | Reformat Department Table | Easy |
+| [**01211**](./src/01211.sql) | Queries Quality and Percentage | Easy |
 
 
 </details>
