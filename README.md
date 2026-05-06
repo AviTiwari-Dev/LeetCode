@@ -55,6 +55,7 @@
 | [**01327**](./src/01327.sql) | List the Products Ordered in a Period | Easy |
 | [**01378**](./src/01378.sql) | Replace Employee ID With The Unique Identifier | Easy |
 | [**01407**](./src/01407.sql) | Top Travellers | Easy |
+| [**01484**](./src/01484.sql) | Group Sold Products By The Date | Easy |
 
 
 </details>
