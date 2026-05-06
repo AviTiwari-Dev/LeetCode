@@ -53,6 +53,7 @@
 | [**01251**](./src/01251.sql) | Average Selling Price | Easy |
 | [**01280**](./src/01280.sql) | Students and Examinations | Easy |
 | [**01327**](./src/01327.sql) | List the Products Ordered in a Period | Easy |
+| [**01378**](./src/01378.sql) | Replace Employee ID With The Unique Identifier | Easy |
 
 
 </details>
