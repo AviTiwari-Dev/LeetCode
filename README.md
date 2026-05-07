@@ -60,6 +60,7 @@
 | [**01527**](./src/01527.sql) | Patients With a Condition | Easy |
 | [**01581**](./src/01581.sql) | Customer Who Visited but Did Not Make Any Transactions | Easy |
 | [**01587**](./src/01587.sql) | Bank Account Summary II | Easy |
+| [**01633**](./src/01633.sql) | Percentage of Users Attended a Contest | Easy |
 
 
 </details>
