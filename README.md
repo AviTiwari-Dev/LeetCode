@@ -65,6 +65,7 @@
 | [**01667**](./src/01667.sql) | Fix Names in a Table | Easy |
 | [**01683**](./src/01683.sql) | Invalid Tweets | Easy |
 | [**01693**](./src/01693.sql) | Daily Leads and Partners | Easy |
+| [**01729**](./src/01729.sql) | Find Followers Count | Easy |
 
 
 </details>
