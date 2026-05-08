@@ -67,6 +67,7 @@
 | [**01693**](./src/01693.sql) | Daily Leads and Partners | Easy |
 | [**01729**](./src/01729.sql) | Find Followers Count | Easy |
 | [**01731**](./src/01731.sql) | The Number of Employees Which Report to Each Employee | Easy |
+| [**01741**](./src/01741.sql) | Find Total Time Spent by Each Employee | Easy |
 
 
 </details>
