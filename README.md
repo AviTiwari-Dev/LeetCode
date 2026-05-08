@@ -66,6 +66,7 @@
 | [**01683**](./src/01683.sql) | Invalid Tweets | Easy |
 | [**01693**](./src/01693.sql) | Daily Leads and Partners | Easy |
 | [**01729**](./src/01729.sql) | Find Followers Count | Easy |
+| [**01731**](./src/01731.sql) | The Number of Employees Which Report to Each Employee | Easy |
 
 
 </details>
