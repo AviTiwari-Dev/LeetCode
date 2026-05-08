@@ -63,6 +63,7 @@
 | [**01633**](./src/01633.sql) | Percentage of Users Attended a Contest | Easy |
 | [**01661**](./src/01661.sql) | Average Time of Process per Machine | Easy |
 | [**01667**](./src/01667.sql) | Fix Names in a Table | Easy |
+| [**01683**](./src/01683.sql) | Invalid Tweets | Easy |
 
 
 </details>
