@@ -69,6 +69,7 @@
 | [**01731**](./src/01731.sql) | The Number of Employees Which Report to Each Employee | Easy |
 | [**01741**](./src/01741.sql) | Find Total Time Spent by Each Employee | Easy |
 | [**01757**](./src/01757.sql) | Recyclable and Low Fat Products | Easy |
+| [**01789**](./src/01789.sql) | Primary Department for Each Employee | Easy |
 
 
 </details>
