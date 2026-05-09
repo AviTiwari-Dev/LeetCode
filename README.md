@@ -72,6 +72,7 @@
 | [**01789**](./src/01789.sql) | Primary Department for Each Employee | Easy |
 | [**01795**](./src/01795.sql) | Rearrange Products Table | Easy |
 | [**01873**](./src/01873.sql) | Calculate Special Bonus | Easy |
+| [**01890**](./src/01890.sql) | The Latest Login in 2020 | Easy |
 
 
 </details>
