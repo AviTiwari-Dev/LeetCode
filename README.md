@@ -76,6 +76,7 @@
 | [**01965**](./src/01965.sql) | Employees With Missing Information | Easy |
 | [**01978**](./src/01978.sql) | Employees Whose Manager Left the Company | Easy |
 | [**02356**](./src/02356.sql) | Number of Unique Subjects Taught by Each Teacher | Easy |
+| [**03436**](./src/03436.sql) | Find Valid Emails | Easy |
 
 
 </details>
