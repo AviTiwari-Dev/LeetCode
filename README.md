@@ -74,6 +74,7 @@
 | [**01873**](./src/01873.sql) | Calculate Special Bonus | Easy |
 | [**01890**](./src/01890.sql) | The Latest Login in 2020 | Easy |
 | [**01965**](./src/01965.sql) | Employees With Missing Information | Easy |
+| [**01978**](./src/01978.sql) | Employees Whose Manager Left the Company | Easy |
 
 
 </details>
