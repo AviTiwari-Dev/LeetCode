@@ -75,6 +75,7 @@
 | [**01890**](./src/01890.sql) | The Latest Login in 2020 | Easy |
 | [**01965**](./src/01965.sql) | Employees With Missing Information | Easy |
 | [**01978**](./src/01978.sql) | Employees Whose Manager Left the Company | Easy |
+| [**02356**](./src/02356.sql) | Number of Unique Subjects Taught by Each Teacher | Easy |
 
 
 </details>
