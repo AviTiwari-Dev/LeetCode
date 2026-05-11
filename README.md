@@ -79,6 +79,7 @@
 | [**03436**](./src/03436.sql) | Find Valid Emails | Easy |
 | [**03465**](./src/03465.sql) | Find Products with Valid Serial Numbers | Easy |
 | [**03570**](./src/03570.sql) | Find Books with No Available Copies | Easy |
+| [**03793**](./src/03793.sql) | Find Users with High Token Usage | Easy |
 
 
 </details>
