@@ -78,6 +78,7 @@
 | [**02356**](./src/02356.sql) | Number of Unique Subjects Taught by Each Teacher | Easy |
 | [**03436**](./src/03436.sql) | Find Valid Emails | Easy |
 | [**03465**](./src/03465.sql) | Find Products with Valid Serial Numbers | Easy |
+| [**03570**](./src/03570.sql) | Find Books with No Available Copies | Easy |
 
 
 </details>
