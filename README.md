@@ -81,6 +81,7 @@
 | [**03570**](./src/03570.sql) | Find Books with No Available Copies | Easy |
 | [**03793**](./src/03793.sql) | Find Users with High Token Usage | Easy |
 | [**01164**](./src/01164.sql) | Product Price at a Given Date | Medium |
+| [**01174**](./src/01174.sql) | Immediate Food Delivery II | Medium |
 
 
 </details>
