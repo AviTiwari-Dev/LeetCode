@@ -82,7 +82,8 @@
 | [**03793**](./src/03793.sql) | Find Users with High Token Usage | Easy |
 | [**01164**](./src/01164.sql) | Product Price at a Given Date | Medium |
 | [**01174**](./src/01174.sql) | Immediate Food Delivery II | Medium |
-| [**01193**](./src/01193.sql) | Monthly Transactions I | Medium |
+| [**01174**](./src/01174.sql) | Immediate Food Delivery II | Medium |
+| [**01204**](./src/01204.sql) | Last Person to Fit in the Bus | Medium |
 
 
 </details>
