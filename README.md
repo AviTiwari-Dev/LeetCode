@@ -85,6 +85,7 @@
 | [**01174**](./src/01174.sql) | Immediate Food Delivery II | Medium |
 | [**01204**](./src/01204.sql) | Last Person to Fit in the Bus | Medium |
 | [**01321**](./src/01321.sql) | Restaurant Growth | Medium |
+| [**01341**](./src/01341.sql) | Movie Rating | Medium |
 
 
 </details>
