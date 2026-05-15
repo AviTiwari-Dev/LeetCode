@@ -87,6 +87,7 @@
 | [**01321**](./src/01321.sql) | Restaurant Growth | Medium |
 | [**01341**](./src/01341.sql) | Movie Rating | Medium |
 | [**01393**](./src/01393.sql) | Capital Gain/Loss | Medium |
+| [**01907**](./src/01907.sql) | Count Salary Categories | Medium |
 
 
 </details>
